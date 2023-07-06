@@ -1,0 +1,19 @@
+{
+  "billable": true,
+  "customFields": [
+    {
+      "customFieldId": "string",
+      "sourceType": "WORKSPACE",
+      "value": {}
+    }
+  ],
+  "description": "DescripcionEditadaDesdeKarate",
+  "end": "2023-07-05T14:15:22Z",
+  "id": "",
+  "projectId": "64a5a8bc489b5f36e239baee",
+  "start": "2023-07-04T14:15:22Z",
+  "tagIds": [
+    ""
+  ],
+  "taskId": ""
+}

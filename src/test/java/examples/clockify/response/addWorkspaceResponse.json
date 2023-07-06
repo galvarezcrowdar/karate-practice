@@ -1,0 +1,56 @@
+{
+  "id": "64a4549135535e444d6d690f",
+  "name": "tatan1",
+  "hourlyRate": {
+    "amount": 0,
+    "currency": "USD"
+  },
+  "costRate": {
+    "amount": 0,
+    "currency": "USD"
+  },
+  "memberships": [
+    {
+      "userId": "64a4284389058175da321e59",
+      "hourlyRate": null,
+      "costRate": null,
+      "targetId": "64a4549135535e444d6d690f",
+      "membershipType": "WORKSPACE",
+      "membershipStatus": "ACTIVE"
+    }
+  ],
+  "workspaceSettings": {
+    "timeRoundingInReports": false,
+    "onlyAdminsSeeBillableRates": true,
+    "onlyAdminsCreateProject": true,
+    "onlyAdminsSeeDashboard": false,
+    "defaultBillableProjects": true,
+    "lockTimeEntries": null,
+    "lockTimeZone": null,
+    "round": {
+      "round": "Round to nearest",
+      "minutes": "15"
+    },
+    "projectFavorites": true,
+    "canSeeTimeSheet": false,
+    "canSeeTracker": true,
+    "projectPickerSpecialFilter": false,
+    "forceProjects": false,
+    "forceTasks": false,
+    "forceTags": false,
+    "forceDescription": false,
+    "onlyAdminsSeeAllTimeEntries": false,
+    "onlyAdminsSeePublicProjectsEntries": false,
+    "trackTimeDownToSecond": true,
+    "projectGroupingLabel": "client",
+    "adminOnlyPages": [
+    ],
+    "automaticLock": null,
+    "onlyAdminsCreateTag": false,
+    "onlyAdminsCreateTask": false,
+    "timeTrackingMode": "DEFAULT",
+    "isProjectPublicByDefault": true
+  },
+  "imageUrl": "",
+  "featureSubscriptionType": "FREE"
+}
