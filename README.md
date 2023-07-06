@@ -6,10 +6,10 @@ Practicas realizadas:
 
 >[src/test/java/examples/clockify](src/test/java/examples/clockify) : Clase 15 - Pruebas de APIs con Karate
 >
->1. Consultar proyecto por id.
->2. Agregar horas a un proyecto.
->3. Editar un campo de algún registro de hora.
->4. Eliminar hora registrada. 
+>1. Consultar proyecto por id. [Scenario: Find project By ID](src/test/java/examples/clockify/project.feature)
+>2. Agregar horas a un proyecto. [Scenario Outline: Add a new time entry](src/test/java/examples/clockify/timeEntries.feature)
+>3. Editar un campo de algún registro de hora. [Scenario Outline: Update time entry on workspace](src/test/java/examples/clockify/timeEntries.feature)
+>4. Eliminar hora registrada. [Scenario: Delete time entry from workspace](src/test/java/examples/clockify/timeEntries.feature)
 
 >[src/test/java/examples/shorten](src/test/java/examples/shorten) : Trabajo Práctico 10 - Pruebas con Karate
 > 
